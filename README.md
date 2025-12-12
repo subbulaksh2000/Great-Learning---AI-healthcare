@@ -9,19 +9,21 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+  <!-- AI + Brain + Medical -->
+  <img src="https://media.giphy.com/media/l0HlPjezGYK0C6b7y/giphy.gif" width="90"/>
 </p>
 
 ---
 
 ## 🧠 About the Course
 This repository documents my learning journey through the **AI in Healthcare** program offered by **Johns Hopkins University**.  
-The course provides a structured understanding of how **Artificial Intelligence (AI)** can be responsibly designed, evaluated, and deployed within healthcare systems.
+The course explores how **Artificial Intelligence (AI)** can be responsibly designed, evaluated, and deployed to support **clinical decision-making, patient safety, and healthcare systems**.
 
-It integrates **technical foundations**, **clinical applications**, **public health perspectives**, and **business strategy**, with a strong emphasis on **ethics, fairness, and patient safety**.
+The curriculum integrates **machine learning foundations**, **clinical applications**, **public health analytics**, and **healthcare AI governance**, with a strong emphasis on **ethics, fairness, and interpretability**.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="90"/>
+  <!-- Medical analytics / hospital data -->
+  <img src="https://media.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif" width="100"/>
 </p>
 
 ---
@@ -35,21 +37,22 @@ It integrates **technical foundations**, **clinical applications**, **public hea
 </p>
 
 - Understand AI foundations in healthcare contexts  
-- Evaluate machine learning models using healthcare-relevant metrics  
-- Apply AI to clinical decision support and public health  
-- Analyze ethical, legal, and regulatory considerations  
+- Evaluate ML models using clinically meaningful metrics  
+- Apply AI to clinical decision support and population health  
+- Analyze ethical, legal, and regulatory challenges  
 - Develop strategic thinking for AI adoption in healthcare  
 
 ---
 
 ## 📚 Curriculum Overview
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70"/>
+<!-- Medical workflow animation -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
 
 ### 🔹 Pre-Work: Introduction to AI in Healthcare
-- Evolution of AI in medical practice  
-- Applications in radiology, precision medicine, and surgery  
+- Evolution of AI in clinical practice  
+- AI applications in radiology, precision medicine, and surgery  
 - Predictive analytics for patient risk assessment  
-- Responsible AI adoption and ethics  
+- Responsible AI adoption in healthcare  
 
 ---
 
@@ -58,46 +61,50 @@ It integrates **technical foundations**, **clinical applications**, **public hea
 **Week 1 – Foundations & Frameworks**
 - Core AI terminology in healthcare  
 - Reliability, validity, and randomization  
-- R.O.A.D. framework for AI integration  
+- R.O.A.D. framework for healthcare AI integration  
 
 **Week 2 – Building Blocks of AI**
-- Machine learning algorithms and workflows  
+- Machine learning algorithms  
 - Model evaluation and performance metrics  
-- Differentiating real innovation from pseudo-innovation  
+- Distinguishing real innovation from pseudo-innovation  
 
 ---
 
 ### 🔹 Module 2: AI for Intelligent Decision Support
+<!-- Clinical AI decision support -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90"/>
 
 **Week 3 – Clinical Decision Support**
 - Human baseline vs AI-assisted decisions  
-- Cognitive biases and risk-based approaches  
-- Predictive modeling for hospital outcomes  
+- Cognitive biases and risk-based decision-making  
+- Predictive modeling in hospital environments  
 
 **Week 4 – Large Language Models in Healthcare**
 - Managing clinical information overload  
-- LLMs for documentation and workflow automation  
-- Limitations and need for human oversight  
+- LLMs for documentation and workflow support  
+- Risks, hallucinations, and human-in-the-loop design  
 
 **Week 5 – Automation & Robotics**
 - Robotic-assisted surgery  
-- Robotic Process Automation (RPA)  
-- Benefits, risks, and future trends  
+- Robotic Process Automation (RPA) in hospitals  
+- Benefits, limitations, and safety considerations  
 
 ---
 
 ### 🔹 Module 3: AI for Public Health & Personalized Medicine
+<!-- Population health / epidemiology -->
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/>
 
 **Week 6 – Improved Health Outcomes**
 - Comorbidity analysis and graph analytics  
 - Epidemiological models (Markov, SEIR)  
-- AI-driven public health interventions  
+- AI for outbreak monitoring and response  
 
 **Week 7 – Learning Break**
 
 **Week 8 – Preventive Healthcare Strategies**
-- Predictive screening and early detection  
-- Precision medicine and personalized care  
+- Predictive screening models  
+- Precision medicine and early detection  
 - Population-level health optimization  
 
 ---
@@ -111,8 +118,11 @@ It integrates **technical foundations**, **clinical applications**, **public hea
   <img src="https://img.shields.io/badge/Compliance-Healthcare_Regulations-4B0082?style=for-the-badge"/>
 </p>
 
-- Ethical and regulatory challenges  
+<!-- Security + healthcare -->
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="80"/>
+
 - Privacy-preserving AI systems  
+- Bias, fairness, and explainability  
 - Secure handling of Electronic Health Records (EHRs)  
 
 **Week 10 – Change Management & AI Adoption**
@@ -123,24 +133,26 @@ It integrates **technical foundations**, **clinical applications**, **public hea
 ---
 
 ## 🧠 Key Skills Developed
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
+<!-- Medical analytics / ML -->
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="90"/>
 
 - Clinical AI evaluation  
 - Responsible AI design  
 - Healthcare data understanding  
 - Ethical AI governance  
-- Strategic AI thinking  
+- Strategic AI leadership  
 
 ---
 
 ## ⚖️ Ethics & Responsibility
-<img src="https://media.giphy.com/media/9Ai5dIk8xvBm0/giphy.gif" width="60"/>
+<!-- Medical shield / safety -->
+<img src="https://media.giphy.com/media/9Ai5dIk8xvBm0/giphy.gif" width="70"/>
 
 This course strongly emphasizes:
 - Patient privacy and data protection  
 - Algorithmic fairness and bias mitigation  
-- Transparency and explainability  
-- Human oversight in AI-driven healthcare systems  
+- Transparency and interpretability  
+- Human oversight in AI-assisted healthcare systems  
 
 ---
 
@@ -165,7 +177,8 @@ This repository is maintained for **educational purposes only**.
 It does not provide medical advice or clinical decision-making tools.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90"/>
+  <!-- Healthcare + learning -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/>
 </p>
 
 <p align="center">
