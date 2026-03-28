@@ -1,0 +1,93 @@
+🏥 Predicting Hospital Readmissions Using AI
+📖 Overview
+
+This project explores how Artificial Intelligence (AI) can be used to predict hospital readmissions and improve healthcare outcomes. It focuses on identifying high-risk patients, reducing costs, and enabling proactive care strategies.
+
+The work is based on a real-world healthcare case study and highlights both technical modeling and practical implementation challenges.
+
+🎯 Problem Statement
+
+Hospital readmissions are a major challenge in healthcare systems:
+
+📊 1 in 5 patients are readmitted within 30 days
+💰 Over $17 billion in annual costs
+⚠️ Indicator of poor care quality and system inefficiency
+🔍 Why Readmissions Happen
+Poor discharge planning
+Missed follow-ups
+Medication non-adherence
+Social factors (transport, support, isolation)
+💡 Solution Approach
+
+Using AI, we can predict high-risk patients before discharge and intervene early.
+
+Key Idea:
+
+“What if we could identify patients likely to return — before they leave the hospital?”
+
+🤖 AI Approach
+1. Data Inputs
+Electronic Health Records (EHR)
+Patient demographics
+Medical history
+Clinical indicators
+2. Algorithms Used
+
+Common machine learning models applied include:
+
+Logistic Regression
+Decision Trees
+Random Forest
+Support Vector Machines (SVM)
+Neural Networks
+⚖️ Trade-offs Considered
+Accuracy vs Interpretability
+Bias vs Variance
+Scalability and performance
+3. Prediction Output
+Risk score for readmission
+Classification: High-risk vs Low-risk patients
+📊 Evaluation & Metrics
+
+AI models are evaluated using:
+
+Recall (Sensitivity) – Ability to detect high-risk patients
+Specificity – Avoid false alarms
+ROC Curve & AUC – Overall model performance
+Threshold-based decision making
+
+⚠️ Important Insight:
+
+Accuracy alone is not a reliable metric in healthcare AI.
+
+🧪 Real-World Implementation
+Learning Healthcare System (LHS)
+
+To successfully deploy AI:
+
+Continuous learning from real patient data
+Integration with hospital workflows
+Feedback loop for improvement
+⚠️ Challenges
+Translating research into real outcomes (can take years)
+Data quality and bias
+Ethical and clinical risks
+Resistance to change in hospital systems
+🚀 Impact
+
+AI-driven readmission prediction can:
+
+Reduce hospital costs
+Improve patient outcomes
+Enable proactive care interventions
+Optimize hospital resource allocation
+🎯 Key Takeaways
+AI can transform healthcare, but implementation is complex
+Predictive models must be clinically validated
+Real-world impact matters more than model accuracy
+A balanced, evidence-based approach is essential
+📌 Author
+
+Subbulakshmi Natarajan
+🎓 Data Science Graduate
+💡 Interested in AI, Healthcare, and Real-world Applications
